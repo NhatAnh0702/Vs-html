@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Oswald:wght@400;500;600&display=swap');
+
+* {
+    font-family: 'Agdasima', sans-serif;
+}
+body {
+    background-color: aqua;
+}
+.des {
+    margin-left: 30%;
+}       
