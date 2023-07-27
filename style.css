@@ -4,13 +4,26 @@
     font-family: 'Agdasima', sans-serif;
 }
 body {
-    background-color: rgb(0, 218, 164);
+    margin: 0;
+      padding: 0;
+      background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b557cbd-b904-4c0f-9096-05bda20d6341/df1dj5y-5c682101-7115-4281-bc7c-6fb9a6b91ef0.png/v1/fill/w_1280,h_609,q_80,strp/mint_aesthetic_background_by_lamingtonlemons_df1dj5y-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjA5IiwicGF0aCI6IlwvZlwvNGI1NTdjYmQtYjkwNC00YzBmLTkwOTYtMDViZGEyMGQ2MzQxXC9kZjFkajV5LTVjNjgyMTAxLTcxMTUtNDI4MS1iYzdjLTZmYjlhNmI5MWVmMC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QxFv3RhLPxlabVkGiNHdOOnBkLQbZJsJmRk_xOgjszU");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      min-height: 100vh;
 }     
 h1 {
-    color: #FF0F7C;
+    color: #a11353;
     text-align:center;
-    margin:auto;
+    margin-top:20px;
+    margin-left: 30%;
+    margin-right: 30%;
     font-size: 50px;
+    border: 1px solid #f00;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #79ec0d60; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 h3 {
     text-align:center;
