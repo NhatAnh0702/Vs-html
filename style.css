@@ -4,8 +4,16 @@
     font-family: 'Agdasima', sans-serif;
 }
 body {
-    background-color: aqua;
+    background-color: rgb(0, 218, 164);
+}     
+h1 {
+    color: #FF0F7C;
+    text-align:center;
+    margin:auto;
+    font-size: 50px;
 }
-.des {
-    margin-left: 30%;
-}       
+h3 {
+    text-align:center;
+    margin:auto;
+    font-size: 20px;
+}
